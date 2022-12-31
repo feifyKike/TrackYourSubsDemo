@@ -11,6 +11,8 @@ An IOS app to track you subscriptions and expenses, all the while presenting in 
 * Stats page: pie chart visual, bar chart visual, and streak indicator
 * Get up-to-date prices on subscritions with a press of a button **(Beta)**
 
+![Video Demo Here](https://youtu.be/KsTx-F70OOk)
+
 ## 🌁 Quick View
 <table>
 <tr>
